@@ -8,7 +8,7 @@ This is website template to build online course websites suits for the online In
 <img src="Images/home.png" alt="" />
 </div>
 
-[Website Link](https://theshifaligwal.github.io//)
+[Website Link](https://theshifaligwal.github.io/online-education-static-website/)
 
 
 ### Tech Stack:
